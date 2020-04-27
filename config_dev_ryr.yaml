@@ -1,4 +1,4 @@
 vPos:
-    companyName: "Ryanair"
+  companyName: "Ryanair"
 vPay:
-    creditCardPaymentEnabled: false
+  creditCardPaymentEnabled: false
