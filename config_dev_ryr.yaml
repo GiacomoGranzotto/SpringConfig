@@ -1,2 +1,4 @@
-creditCardPaymentEnabled: false
-companyName: "Ryanair"
+vPos:
+    companyName: "Ryanair"
+vPay:
+    creditCardPaymentEnabled: false
