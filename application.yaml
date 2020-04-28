@@ -1,2 +1,4 @@
 vPack:
   tag: "Template Value"
+vPos:
+  creditCardEnabled: false
