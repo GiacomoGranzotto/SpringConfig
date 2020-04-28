@@ -1,2 +1,4 @@
 vPack:
-  tag1: "Another Value"
+  tag1: "Actual Value"
+vPos:
+  creditCardEnabled: true
